@@ -15,6 +15,7 @@ psutil
 py-tgcalls==0.9.7
 pytgcrypto
 kurigram
+git+https://github.com/KurimuzonAkuma/pyrogram.git@2ae00a2710dd3e347798473f3dd784e9639edb1a
 python-dotenv
 pyyaml
 requests
